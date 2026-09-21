@@ -1,0 +1,5 @@
+*.class
+monitored_directories.txt
+statistics.txt
+.idea/
+out/
